@@ -68,9 +68,7 @@ O dashboard foi estruturado com diferentes tipos de visualizações para facilit
 
 ## 📷 Preview do dashboard
 
-> Adicione aqui uma imagem do seu dashboard.
-
-```md
 <img width="1120" height="631" alt="image" src="https://github.com/user-attachments/assets/b4921072-e53c-4543-8663-2d250bc89a80" />
 <img width="1114" height="625" alt="image" src="https://github.com/user-attachments/assets/a1ffa2f7-ae1e-4bf5-a01e-0364c32cc91a" />
 
+```md
